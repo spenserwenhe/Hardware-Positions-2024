@@ -6,6 +6,7 @@
 | Cisco | San Jose, CA | [Hardware Engineer II Intern](https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-II-Intern-United-States/1405335) |
 | Cisco | San Jose, CA | [ASIC Engineer I Intern](https://jobs.cisco.com/jobs/ProjectDetail/ASIC-Engineer-I-Intern-United-States/1405421) |
 | Cisco | San Jose, CA | [ASIC Engineer II Intern](https://jobs.cisco.com/jobs/ProjectDetail/ASIC-Engineer-II-Intern-United-States/1405422) |
+| IBM | Multiple Locations | [Hardware Intern: 2024 (Accelerate)](https://careers.ibm.com/job/18873621/hardware-intern-2024-accelerate-remote/) |
 | Intel | Multiple Locations | [Digital Standard Cell Library Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Digital-Standard-Cell-Library-Engineer-Intern_JR0246054) |
 | Intel | Phoenix, AZ | [Facilities Electrical Power Distribution Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Facilities-Electrical-Power-Distribution-Engineering-Intern_JR0247078) |
 | Intel | Multiple Locations | [Graduate Internship - Computer Engineering (MS/PhD)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Graduate-Internship---Computer-Engineering--MS-PhD-_JR0245528) |
@@ -16,3 +17,6 @@
 | NVIDIA | Santa Clara, CA | [Hardware Physical Design Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2024-Internships--Hardware-Physical-Design-Intern_JR1970079?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&workerSubType=ab40a98049581037a3ada55b087049b7) |
 | NVIDIA | Santa Clara, CA | [Hardware ASIC Design and Verification Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2024-Internships--Hardware-ASIC-Design-and-Verification-Intern_JR1970064-1?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&workerSubType=ab40a98049581037a3ada55b087049b7) |
 | NVIDIA | Santa Clara, CA | [Systems Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2024-Internships--Systems-Software-Engineering-Intern_JR1970233?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&workerSubType=ab40a98049581037a3ada55b087049b7) |
+| Volvo Group | Hagerstown, MD | [Co-op: Engineering, Embedded Software (Spring 2024)](https://www.volvogroup.com/en/careers/job-openings/141119BR.html) |
+| Volvo Group | Greensboro, NC | [Intern: Electrical Engineer (Summer 2024)](https://www.volvogroup.com/en/careers/job-openings/143568BR.html) |
+| Volvo Group | Shippensburg, PA | [Intern: Vehicle Electrical Systems Design (Spring 2024)](https://www.volvogroup.com/en/careers/job-openings/143519BR.html) |
