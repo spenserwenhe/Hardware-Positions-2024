@@ -1,4 +1,4 @@
-# Early Career and Intern Positions for Hardware in 2024
+# New Grad and Intern Positions for Hardware in 2024
 **Maintained by ECE Students @ UIUC**  
   
 The positions listed in this repository are for US locations only. Embedded, OS, and firmware jobs are included.
